@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "DesignPatterns\Singleton.csproj", "{1EB280FB-8D8C-4754-8A2E-71AE7556B2CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton\Singleton.csproj", "{1EB280FB-8D8C-4754-8A2E-71AE7556B2CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesign", "FactoryDesign\FactoryDesign.csproj", "{3042B1AF-0736-4F18-935E-A61F10E6E853}"
 EndProject

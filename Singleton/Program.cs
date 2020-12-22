@@ -1,11 +1,11 @@
 ﻿using System;
 using System.Threading.Tasks;
-using DesignPatterns;
+
 
 namespace Singleton {
   class Program {
 
-    private static readonly ILogger Logger = DesignPatterns.Logger.GetInstance;
+    private static readonly ILogger Logger = Singleton.Logger.GetInstance;
     static void Main( string[] args ) {
       Parallel.Invoke( FirstMethod, SecondMethod );
       Console.ReadKey();
