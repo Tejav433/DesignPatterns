@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDesign", "FactoryDes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobScheduler", "JobScheduler\JobScheduler.csproj", "{2069D9D1-C6BE-4176-8AA7-54A3622BFFB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderPattern", "BuilderPattern\BuilderPattern.csproj", "{FB7A276A-B7EA-4727-BCF6-65159CF9FD34}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2069D9D1-C6BE-4176-8AA7-54A3622BFFB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2069D9D1-C6BE-4176-8AA7-54A3622BFFB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2069D9D1-C6BE-4176-8AA7-54A3622BFFB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB7A276A-B7EA-4727-BCF6-65159CF9FD34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB7A276A-B7EA-4727-BCF6-65159CF9FD34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB7A276A-B7EA-4727-BCF6-65159CF9FD34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB7A276A-B7EA-4727-BCF6-65159CF9FD34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
